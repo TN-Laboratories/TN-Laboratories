@@ -19,7 +19,7 @@ $$L = \frac{E}{R}$$
 
 ### 🚀 Projects
 - **[The Reality Simulator](https://love-protocol2-mvp.netlify.app)** : A web-based tool.
-- **[Read the Story (Note)](https://note.com/tooru248/n/n1e80e4aabd19)** : Why we built this? The philosophy behind the code.
+- **[Read the Story (Note)](https://medium.com/@rote2480/why-hard-work-doesnt-work-the-physics-of-zero-resistance-l-e-r-d9cc83ad3b5c)** : Why we built this? The philosophy behind the code.
 - **[The Reality Simulator](https://love-protocol2-mvp.netlify.app)** : A web-based tool to experience the $R \to 0$ state.
 - **Ego Debugging Challenge** : 7-day program (Coming Jan 1st).
 
