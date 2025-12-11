@@ -18,6 +18,8 @@ $$L = \frac{E}{R}$$
 ---
 
 ### 🚀 Projects
+- **[The Reality Simulator](https://love-protocol2-mvp.netlify.app)** : A web-based tool.
+- **[Read the Story (Note)](ここにNoteのURLを貼る)** : Why we built this? The philosophy behind the code.
 - **[The Reality Simulator](https://love-protocol2-mvp.netlify.app)** : A web-based tool to experience the $R \to 0$ state.
 - **Ego Debugging Challenge** : 7-day program (Coming Jan 1st).
 
